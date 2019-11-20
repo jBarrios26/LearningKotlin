@@ -1,5 +1,4 @@
 package basics
-
 //using type declaration.
 private val name:String = "Jorge"
 private var greeting:String? = null
